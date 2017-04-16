@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample MVC Learning/ViewController.swift"
+            timestampString = "512028226.520208"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sample_MVC_Learning.ViewController.name.setter : Swift.String"
+                  moduleName = "Sample MVC Learning"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumar/Documents/SwiftProject/SampleApp/Sample%20MVC%20Learning/Sample%20MVC%20Learning/ViewController.swift"
+                  timestampString = "512022968.854577"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "95">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sample_MVC_Learning.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Sample_MVC_Learning.ViewController"
+                  moduleName = "Sample MVC Learning"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumar/Documents/SwiftProject/SampleApp/Sample%20MVC%20Learning/Sample%20MVC%20Learning/ViewController.swift"
+                  timestampString = "512022968.857613"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "285">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Sample_MVC_Learning.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Sample_MVC_Learning.ViewController&gt;"
+                  moduleName = "Sample MVC Learning"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumar/Documents/SwiftProject/SampleApp/Sample%20MVC%20Learning/Sample%20MVC%20Learning/ViewController.swift"
+                  timestampString = "512022968.860815"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "194">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
